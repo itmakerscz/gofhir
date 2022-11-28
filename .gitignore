@@ -1,5 +1,8 @@
 # ignore files
-package.json package-lock.json gofhir go.mod
+package.json
+package-lock.json
+gofhir
+go.mod
 
 # ignore directories
 node_modules/
